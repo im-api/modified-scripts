@@ -1,3 +1,6 @@
+# Other Scripts
+- [6to4 tunnel](https://github.com/im-api/6to4)
+
 # Change Repo of ubuntu server
 use any CN instead of uae
 ```
