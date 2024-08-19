@@ -2,6 +2,14 @@
 - [6to4 tunnel](https://github.com/im-api/6to4)
 - [Marzban Master Customized](https://github.com/im-api/Marzban)
 - [Marzban Node](https://gozargah.github.io/marzban/fa/docs/marzban-node)
+
+# DNS For IR 403 Bypass
+- 403
+```
+nameserver 10.202.10.202
+nameserver 10.202.10.102
+```
+
 # Change Repo of ubuntu server
 use any CN instead of uae
 ```
