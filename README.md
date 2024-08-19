@@ -9,3 +9,8 @@ sed -i 's/http:\/\/[a-z]*.archive.ubuntu.com/http:\/\/uae.archive.ubuntu.com/g' 
 ```
 bash <(curl -4 -Ls https://raw.githubusercontent.com/im-api/modified-scripts/main/install_sanaie.sh)
 ```
+
+# Install FranzKafka
+```
+bash <(curl -4 -Ls https://raw.githubusercontent.com/im-api/modified-scripts/main/install_franzkafka.sh)
+```
