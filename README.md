@@ -1,6 +1,7 @@
 # Other Scripts
 - [6to4 tunnel](https://github.com/im-api/6to4)
-
+- [Marzban Master Customized](https://github.com/im-api/Marzban)
+- [Marzban Node](https://gozargah.github.io/marzban/fa/docs/marzban-node)
 # Change Repo of ubuntu server
 use any CN instead of uae
 ```
