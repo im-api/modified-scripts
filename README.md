@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-api&label=Page%20Views&color=0e75b6&style=flat" alt="im-api" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=modified-scripts-im-api&label=Page%20Views&color=0e75b6&style=flat" alt="im-api" /> </p>
 
 # Other Scripts
 - [6to4 tunnel](https://github.com/im-api/6to4)
