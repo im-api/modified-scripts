@@ -11,6 +11,11 @@
 nameserver 10.202.10.202
 nameserver 10.202.10.102
 ```
+- Electro
+```
+nameserver 78.157.42.100
+nameserver 78.157.42.101
+```
 
 # Change Repo of ubuntu server
 use any CN instead of uae
